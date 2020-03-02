@@ -443,4 +443,6 @@ body{
 	background-color: #fff;
 }
 
-::
+::-webkit-scrollbar-thumb{
+	
+}
