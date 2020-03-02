@@ -1,7 +1,6 @@
 body{
 	margin: 0;
 	background-color: #000;
-	padding-top: 60px;
 }
 
 @font-face{
@@ -14,7 +13,7 @@ body{
 	src: url(18392.otf);
 }
 #top-menu{
-	position: fixed;
+	position: sticky;
 	height: 60px;
 	width: 100%;
 	background: linear-gradient(to right,#59FF00,#004DFF,#FF00D1,#FF0000,#FF00D1,#004DFF,#59FF00);
