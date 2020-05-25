@@ -10,7 +10,6 @@ body{
 	height: 50px;
 	width: 100%;
 	background-color: #222;
-	font-size: 20px;
 }
 #box1{
 	width: 100%;
@@ -34,7 +33,7 @@ body{
 	padding: 13px;
 	display: inline-block;
 	overflow: hidden;
-	border-bottom: solid #241 0;
+	border-bottom: solid #ff0;
 	transition-duration: 200ms;
 	transition-property: color, border-bottom-width, padding-bottom;
 }
